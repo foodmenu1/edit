@@ -131,8 +131,8 @@
 * [HackTheMenu](https://hackthemenu.com/) - Fast Food Secret Menu Items
 * [Taconomical](https://taconomical.com/) or [ChipotleCost](https://www.chipotlecost.com/) - Restaurant Price Maps
 * [Too Good To Go](https://www.toogoodtogo.com/) - Surplus Food Marketplace
-
-***
+* [Wendys Menu](https://wendymenuu.com/) - Wendy’s Fast Food Secret Menu Items
+* [subway menu](https://subwaymenuonline.com/) - subway Fast Food Secret Menu Items
 
 ## ▷ Recipes
 
